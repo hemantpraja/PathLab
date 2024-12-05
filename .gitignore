@@ -1,0 +1,10 @@
+/client/node_modules
+/server/node_modules
+
+/client/src/components/PdfExport/
+
+/client/.env
+/server/.env
+
+/uploads/
+/client/src/uploads/
